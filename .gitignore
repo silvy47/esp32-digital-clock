@@ -1,0 +1,12 @@
+# WiFi credentials — never commit this
+config/secrets.h
+
+# Arduino / PlatformIO build artifacts
+build/
+.pio/
+*.o
+*.elf
+*.bin
+
+# OS files
+.DS_Store
